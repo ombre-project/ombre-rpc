@@ -1,5 +1,5 @@
 {
-  "name": "arqmacoin-rpc",
+  "name": "arqma-rpc",
   "version": "0.12.2",
   "description": "Arqma RPC API Interface in NodeJS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muscleman/arqmacoin-rpc.git"
+    "url": "git+https://github.com/muscleman/arqma-rpc.git"
   },
   "keywords": [
     "Arqma",
@@ -18,9 +18,9 @@
   "author": "ArqmaMan <garusher@gmail.com>",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/muscleman/arqmacoin-rpc/issues"
+    "url": "https://github.com/muscleman/arqma-rpc/issues"
   },
-  "homepage": "https://github.com/muscleman/arqmacoin-rpc#readme",
+  "homepage": "https://github.com/muscleman/arqma-rpc#readme",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5"
