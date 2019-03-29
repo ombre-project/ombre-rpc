@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muscleman/arqma-rpc.git"
+    "url": "git+https://github.com/arqma/arqma-rpc.git"
   },
   "keywords": [
     "Arqma",
     "RPC",
     "API"
   ],
-  "author": "ArqmaMan <garusher@gmail.com>",
+  "author": "ArqTras <arqtras@arqma.com>",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/muscleman/arqma-rpc/issues"
+    "url": "https://github.com/arqma/arqma-rpc/issues"
   },
-  "homepage": "https://github.com/muscleman/arqma-rpc#readme",
+  "homepage": "https://github.com/arqma/arqma-rpc#readme",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5"
