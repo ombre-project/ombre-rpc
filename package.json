@@ -1,26 +1,26 @@
 {
-  "name": "arqma-rpc",
+  "name": "ombre-rpc",
   "version": "0.12.2",
-  "description": "Arqma RPC API Interface in NodeJS",
+  "description": "Ombre RPC API Interface in NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arqma/arqma-rpc.git"
+    "url": "git+https://github.com/ombre-project/ombre-rpc.git"
   },
   "keywords": [
-    "Arqma",
+    "Ombre",
     "RPC",
     "API"
   ],
   "author": "ArqTras <arqtras@arqma.com>",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arqma/arqma-rpc/issues"
+    "url": "https://github.com/ombre-project/ombre-rpc/issues"
   },
-  "homepage": "https://github.com/arqma/arqma-rpc#readme",
+  "homepage": "https://github.com/ombre-project/ombre-rpc#readme",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5"
